@@ -23,7 +23,7 @@
   Mình đang học tại trường Quản trị và kinh doanh, Đại học Quốc gia Hà nội.
   Chuyên ngành của mình là Quản trị và an ninh</p>
   <div class="image">
-    <img src="maybe1.jpg" alt="" width="360" height="500"> 
+    <img src="maybe1.png" alt="" width="360" height="500"> 
     <p><cite>Nguyễn Quang Huy</cite></p>
   </div>
   <br><br><br><br><br>
